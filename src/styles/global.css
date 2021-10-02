@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&display=swap');
+
+
+* {
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+html, body {
+    min-height: 100%;
+    font-family: 'Coustard', serif;}
+
+body {
+    background: #f8f8ff;
+}
+
+.navbar{
+    display: flex;
+    /* grid-template-columns: 1fr 5fr 1fr; */
+    /* grid-template-rows: 1fr; */
+    /* justify-items: center; */
+    align-items: center;
+    justify-content: center ;
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding-bottom: 2em;
+}
+
+@media screen and (max-width: 550px){
+    .navbar{
+        font-size: 13px
+    }
+    img.mcdlogo{
+        width: 250px;
+        height: auto;
+    }
+    /* .workcontainer{
+        display: grid;
+        justify-items: center;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 1px;
+    } */
+
+    .workinfo{
+        font-size: 12px;
+        display: grid;
+    }
+}
+
+.MCD{
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+/* .navbar, .logo{
+    color: black;
+} */
+
+.workcontainer{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+}
+
+.workinfo img{
+    height: 40vw;
+    width: auto;
+}
+
+.workinfo{
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.worktitle{
+    margin-bottom: 0;
+}
+
+.active{
+    -webkit-text-fill-color: rgb(38, 148, 171) !important;
+}
+
+.navLink{
+    color: rgb(229, 149, 114);
+    /* position: relative; */
+    grid-column-start: 2;
+    /* display: inline grid; */
+    overflow: hidden;
+    background: linear-gradient(to right, rgb(38, 148, 171) 50%, rgb(229, 149, 114) 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 500ms ease;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navLink:hover{
+    background-position: 0 100%;
+}
+
+.mcdlogo{
+    /* display: grid; */
+    /* justify-content: center; */
+    /* justify-items: center; */
+    width: 400px;
+    height: auto;
+    padding-top: 25px;
+    padding-left: 6px;
+}
+
+/* .navLink::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(38,148,171,1);
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+} */
+
+/* .navLink:hover::after{
+    transform: scaleX(1);
+    transform-origin: bottom left;
+} */
+
+.navLink:hover{
+    color: rgb(38, 148, 171);
+}
+
+.subtitle{
+    margin-top: 20px;
+    margin-bottom: 4px;
+    color: #a6a6a6;
+}
+
+.header{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.logo{
+    font-size: 1em;
+
+}
+
+.footer{
+    text-align: center;
+}
+
+.foot{
+    color: #a6a6a6;
+    font-size: 10px;
+}
+
+.workimgcontainer:hover .workimg{
+    opacity: .2;
+}
+
+/* .workimg{
+    opacity: 1;
+    width: 100%;
+    height: 40vw;
+    width: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+} */
+
+.text{
+    text-align: center;
+}
+
+.workimgcontainer{
+    display: grid;
+    justify-content: center;
+    margin-bottom: 2vw;
+}
+
+
+.chat{
+    text-align: center;
+}
+
+.formcontainer{
+    display: grid;
+    justify-content: center;
+}
+
+.form{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+#name, #email, #subject, #message{
+    display: grid;
+    width: 50vw;
+    padding: 10px;
+    border: solid 2px rgba(229,149,114,1);
+    border-radius: 5px;
+    outline: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#message{
+    height: 90px;
+}
+
+#name, #email, #subject{
+    height: 20px;
+}
+
+label{
+    margin: 5px;
+}
+
+#send, #clear {
+    margin: 5px;
+    border: solid 2px rgba(229,149,114,1);
+    border-radius: 5px;
+    background-color: rgba(229,149,114,1);
+    color: white;
+    font-family: 'Coustard', serif;
+}
+
+#send:hover, #clear:hover{
+    border: solid 2px rgba(38,148,171,1);
+    border-radius: 5px;
+    background-color: rgba(38,148,171,1);
+}
+
+/* GENERATED PROJECT PAGES */
+.details{
+  font-size: 3.5em;
+  margin-top: 40px;
+}
+.htmls{
+  margin-top: 40px;
+}
+.featured{
+  margin-bottom: 40px;
+}
+/* .imgdeets{
+  height: 400px;
+} */
