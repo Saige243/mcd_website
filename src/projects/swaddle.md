@@ -1,7 +1,7 @@
 ---
 title: Swaddle
 format: Baby Store Branding
-slug: the-testy-project
+slug: swaddle-baby
 thumb: ../images/thumbs/swaddle.png
 featuredImg: ../images/thumbs/handmaids.jpg
 

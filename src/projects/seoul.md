@@ -3,7 +3,7 @@ title: Find Your Seoul
 format: South Korean Travel Agency
 slug: seoul-living
 thumb: ../images/thumbs/seoul.png
-featuredImg: ../images/thumbs/handmaids.jpg
+featuredImg: '../images/thumbs/handmaids.jpg'
 
 
 ---

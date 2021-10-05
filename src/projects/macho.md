@@ -1,7 +1,7 @@
 ---
 title: Ma-Cho Chocolates    
 format: Candy Branding Project
-slug: pop-pop
+slug: ma-cho
 thumb: ../images/thumbs/macho.jpg
 featuredImg: ../images/thumbs/handmaids.jpg
 

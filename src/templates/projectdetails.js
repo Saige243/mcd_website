@@ -14,7 +14,7 @@ export default function projectdetails({ data }) {
         <h2 className="details">{title}</h2>
         <h3>{format}</h3>
         <div className="imgdeets">
-          <GatsbyImage image={featuredImg.childImageSharp.gatsbyImageData}/>
+          <GatsbyImage className="projphotos"image={featuredImg.childImageSharp.gatsbyImageData}/>
         </div>
         <div className="htmls" dangerouslySetInnerHTML={{ __html: html }}/>
       </div>

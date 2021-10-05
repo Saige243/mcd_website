@@ -71,6 +71,12 @@ body {
     width: auto;
 }
 
+.workinfo :hover{
+  opacity: .7;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
 .workinfo{
     display: grid;
     justify-content: center;
@@ -168,9 +174,9 @@ body {
     font-size: 10px;
 }
 
-.workimgcontainer:hover .workimg{
+/* .workimgcontainer:hover .workimg{
     opacity: .2;
-}
+} */
 
 /* .workimg{
     opacity: 1;
@@ -245,15 +251,19 @@ label{
 
 /* GENERATED PROJECT PAGES */
 .details{
-  font-size: 3.5em;
+  font-size: 4.5vw;
   margin-top: 40px;
+  text-align: center;
 }
 .htmls{
-  margin-top: 40px;
+  margin-top: 20px;
+  text-align: center;
 }
 .featured{
   margin-bottom: 40px;
 }
-/* .imgdeets{
-  height: 400px;
-} */
+
+.projphotos{
+  margin: 2em;
+
+}
