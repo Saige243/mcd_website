@@ -14,7 +14,7 @@ export default function projectdetails({ data }) {
         <h2 className="details">{title}</h2>
         <h3>{format}</h3>
         <div className="imgdeets">
-          <GatsbyImage image={featuredImg.childImageSharp.fluid}/>
+          <GatsbyImage image={featuredImg.childImageSharp.gatsbyImageData}/>
         </div>
         <div className="htmls" dangerouslySetInnerHTML={{ __html: html }}/>
       </div>
@@ -22,20 +22,35 @@ export default function projectdetails({ data }) {
   )
 }
 
+// export const query = graphql`
+//   query ProjectsPage($slug: String) {
+//     markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+//       html
+//       frontmatter {
+//         slug
+//         title
+//         featuredImg {
+//           childImageSharp {
+//             fluid {
+//               ...GatsbyImageSharpFluid
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }`
 export const query = graphql`
-  query ProjectsPage($slug: String) {
-    markdownRemark(frontmatter: {slug: {eq: $slug}}) {
-      html
-      frontmatter {
-        slug
-        title
-        featuredImg {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
+query ProjectsPage($slug: String) {
+  markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+    html
+    frontmatter {
+      slug
+      title
+      featuredImg {
+        childImageSharp {
+          gatsbyImageData(layout: FULL_WIDTH)
         }
       }
     }
-  }`
+  }
+}`
