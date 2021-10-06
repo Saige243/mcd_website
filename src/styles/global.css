@@ -9,10 +9,16 @@
 
 html, body {
     min-height: 100%;
-    font-family: 'Coustard', serif;}
+    font-family: 'Coustard', serif;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    margin-bottom: 2vw;
+  }
+
 
 body {
-    background: #f8f8ff;
+    /* background: #f8f8ff; */
+    background: white;
 }
 
 .navbar{
@@ -44,7 +50,7 @@ body {
     } */
 
     .workinfo{
-        font-size: 12px;
+        font-size: 9px;
         display: grid;
     }
 }
@@ -67,8 +73,8 @@ body {
 }
 
 .workinfo img{
-    height: 40vw;
-    width: auto;
+    height: 35vw;
+    width: 100%;
 }
 
 .workinfo :hover{
@@ -81,9 +87,9 @@ body {
     display: grid;
     justify-content: center;
     justify-items: center;
-    margin: 0;
+    /* margin: 0;
     border: 0;
-    padding: 0;
+    padding: 0; */
 }
 
 .worktitle{

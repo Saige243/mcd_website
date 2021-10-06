@@ -7,7 +7,9 @@ export default function Layout( { children } ) {
     return (
         <div className="layout">
             <div className="header">
+              <a href="/">
                 <img className="mcdlogo" src={mcdlogo}></img>
+              </a>
                 <p className="subtitle">graphic designer | illustrator</p>
             </div>
             <Navbar />
