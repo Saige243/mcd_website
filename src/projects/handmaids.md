@@ -7,8 +7,6 @@ featuredImg: ../images/thumbs/handmaids.jpg
 
 ---
 
-![handmaid's](../images/thumbs/swaddle.png)
-
 **Lorem ipsum**
 lorem lorem lorem lorem
 
