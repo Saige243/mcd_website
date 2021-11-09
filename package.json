@@ -22,6 +22,8 @@
     "gatsby-plugin-image": "^1.13.0",
     "gatsby-plugin-mdx": "^2.13.0",
     "gatsby-plugin-sharp": "^3.13.0",
+    "gatsby-remark-images": "^6.1.1",
+    "gatsby-remark-relative-images": "^1.1.1",
     "gatsby-source-filesystem": "^3.13.0",
     "gatsby-transformer-remark": "^4.11.0",
     "gatsby-transformer-sharp": "^3.13.0",

@@ -12,3 +12,5 @@ lorem lorem lorem lorem
 
 ### Lorem, snatch
 lorem lorem alskdjf ;laksj df;lasj df; df as;ldkfajs;ldkfj a;sidjf ;lasdhg awljnbvwdn vcn x/zg.awildv.,sdnva kjn e/,navsdddd
+
+![seoul.png](../images/thumbs/macho.jpg)
