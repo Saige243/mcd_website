@@ -1,5 +1,5 @@
 ---
-title: Find Your Seoul   
+title: FIND YOUR SEOUL   
 format: South Korean Travel Agency
 slug: seoul-living
 thumb: ../images/thumbs/seoul.png

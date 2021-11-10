@@ -1,5 +1,5 @@
 ---
-title: Ma-Cho Chocolates    
+title: MA_CHO CHOCOLATES    
 format: Candy Branding Project
 slug: ma-cho
 thumb: ../images/thumbs/macho.jpg

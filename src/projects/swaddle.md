@@ -1,5 +1,5 @@
 ---
-title: Swaddle
+title: SWADDLE
 format: Baby Store Branding
 slug: swaddle-baby
 thumb: ../images/thumbs/swaddle.png

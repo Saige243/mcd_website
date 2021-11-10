@@ -1,5 +1,5 @@
 ---
-title: The Handmaid's Tale   
+title: THE HANDMAID'S TALE  
 format: Book Cover Design
 slug: handmaids-tale
 thumb: ../images/thumbs/handmaids.jpg

@@ -1,5 +1,5 @@
 ---
-title: Thick Skull Brewing
+title: THICK SKULL BREWING
 format: Craft Brewery Branding
 slug: thick-skull
 thumb: ../images/thumbs/thickskull.jpg

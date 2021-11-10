@@ -1,5 +1,5 @@
 ---
-title: Mingle Butter   
+title: MINGLE BUTTER   
 format: Butter Branding Project
 slug: mingle-butter
 thumb: ../images/thumbs/macho.jpg

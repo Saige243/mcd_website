@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 * {
     padding: 0;
@@ -9,8 +8,7 @@
 
 html, body {
     min-height: 100%;
-    font-family: 'Coustard', serif;
-    margin-left: 4vw;
+    font-family: 'Poppins', sans-serif;    margin-left: 4vw;
     margin-right: 4vw;
     margin-bottom: 2vw;
   }
@@ -87,13 +85,14 @@ body {
     display: grid;
     justify-content: center;
     justify-items: center;
+    padding-bottom: 35px;
     /* margin: 0;
     border: 0;
     padding: 0; */
 }
 
 .worktitle{
-    margin-bottom: 0;
+    margin-bottom: -8px;
 }
 
 .active{
