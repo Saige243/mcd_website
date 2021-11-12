@@ -3,7 +3,7 @@ title: MA_CHO CHOCOLATES
 format: Candy Branding Project
 slug: ma-cho
 thumb: ../images/thumbs/macho.jpg
-featuredImg: ../images/thumbs/macho.jpg
+featuredImg: ../images/macho/mc8.jpg
 
 ---
 
@@ -31,4 +31,4 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 
 ![mc7.jpg](../images/macho/mc7.jpg)
 
-![mc8.jpg](../images/macho/mc8.jpg)
+<!-- ![mc8.jpg](../images/macho/mc8.jpg) -->

@@ -15,11 +15,11 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 lorem lorem lorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
 
-![ht1.jpg](../images/handmaid/ht1.jpg)
+![Click to Enlarge :D](../images/handmaid/ht1.jpg)
 
-![ht2.png](../images/handmaid/ht2.png)
+<!-- ![ht2.png](../images/handmaid/ht2.png) -->
 
-![ht3.jpg](../images/handmaid/ht3.jpg)
+![Allo!](../images/handmaid/ht3.jpg)
 
 ![ht4.jpg](../images/handmaid/ht4.jpg)
 
