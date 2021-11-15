@@ -1,6 +1,6 @@
 ---
 title: MA_CHO CHOCOLATES    
-format: Candy Branding Project
+format: • Candy Branding Project •
 slug: ma-cho
 thumb: ../images/thumbs/macho.jpg
 featuredImg: ../images/macho/mc8.jpg
@@ -17,18 +17,18 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 lorem lorem lorem lorem lorem lorem lorem lorem 
 
 
-![mc1.jpg](../images/macho/mc1.jpg)
+![Click to Enlarge :D](../images/macho/mc1.jpg)
 
-![mc2.jpg](../images/macho/mc2.jpg)
+![Click to Enlarge :D](../images/macho/mc2.jpg)
 
-![mc3.jpg](../images/macho/mc3.jpg)
+![Click to Enlarge :D](../images/macho/mc3.jpg)
 
-![mc4.jpg](../images/macho/mc4.jpg)
+![Click to Enlarge :D](../images/macho/mc4.jpg)
 
-![mc5.jpg](../images/macho/mc5.jpg)
+![Click to Enlarge :D](../images/macho/mc5.jpg)
 
-![mc6.jpg](../images/macho/mc6.jpg)
+![Click to Enlarge :D](../images/macho/mc6.jpg)
 
-![mc7.jpg](../images/macho/mc7.jpg)
+![Click to Enlarge :D](../images/macho/mc7.jpg)
 
 <!-- ![mc8.jpg](../images/macho/mc8.jpg) -->

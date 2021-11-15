@@ -8,8 +8,8 @@
 
 html, body {
     min-height: 100%;
-    font-family: 'Poppins', sans-serif;    margin-left: 4vw;
-    margin-right: 4vw;
+    font-family: 'Poppins', sans-serif;    margin-left: 3vw;
+    margin-right: 3vw;
     margin-bottom: 2vw;
   }
 
@@ -28,13 +28,13 @@ body {
     justify-content: center ;
     margin: auto;
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 14px;
     padding-bottom: 2em;
 }
 
 @media screen and (max-width: 550px){
     .navbar{
-        font-size: 13px
+        font-size: 10px
     }
     img.mcdlogo{
         width: 250px;
@@ -126,7 +126,7 @@ body {
     /* justify-items: center; */
     width: 400px;
     height: auto;
-    padding-top: 25px;
+    padding-top: 20px;
     padding-left: 6px;
 }
 
@@ -153,7 +153,7 @@ body {
 }
 
 .subtitle{
-    margin-top: 20px;
+    margin-top: 5px;
     margin-bottom: 4px;
     color: #a6a6a6;
 }
