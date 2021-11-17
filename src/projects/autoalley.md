@@ -1,9 +1,9 @@
 ---
 title: Auto Alley Postcards    
-format: • Candy Branding Project •
+format: • Historic Distric Postcards •
 slug: ma-cho
-thumb: ../images/thumbs/macho.jpg
-featuredImg: ../images/macho/mc8.jpg
+thumb: ../images/autoalley/aa1.jpg
+featuredImg: ../images/autoalley/aa1.jpg
 
 ---
 
@@ -15,3 +15,7 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 lorem lorem lorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
+
+![Click to Enlarge :D](../images/autoalley/aa1.jpg)
+
+![Click to Enlarge :D](../images/autoalley/aa1.jpg)

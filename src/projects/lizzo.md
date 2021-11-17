@@ -1,9 +1,9 @@
 ---
 title: Curbside Magazine "Lizzo"   
-format: • Candy Branding Project •
-slug: ma-cho
-thumb: ../images/thumbs/macho.jpg
-featuredImg: ../images/macho/mc8.jpg
+format: • Magazine Illustration •
+slug: lizzo
+thumb: ../images/lizzo/l2.JPG
+featuredImg: ../images/lizzo/l2.JPG
 
 ---
 
@@ -15,3 +15,9 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 lorem lorem lorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
+
+![Click to Enlarge :D](../images/lizzo/l1.JPG)
+
+![Click to Enlarge :D](../images/handmaid/l2.JPG)
+
+![Click to Enlarge :D](../images/handmaid/l3.jpg)
