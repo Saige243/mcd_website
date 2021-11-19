@@ -12,7 +12,7 @@ featuredImg: ../images/thick/ts1.png
 lorem lorem lorem lorem
 
 ### Lorem, snatch
-lorem lorem alskdjf ;laksj df;lasj df; df as;ldkfajs;ldkfj a;sidjf ;lasdhg awljnbvwdn vcn x/zg.awildv.,sdnva kjn e/,navsd l
+lorem lorem alskdjf ;laksj df;lasj df; df as;ldkfajs;ldkfj a;sidjf ;lasdhg awljnbvwdn vcn x/zg.awildv.,snva kjn e/,navsd l
 
 ![Click to Enlarge :D](../images/thick/ts2.jpg)
 
