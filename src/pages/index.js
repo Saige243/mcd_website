@@ -27,6 +27,7 @@ function HomePage ({ data }) {
     </div>
   )
 }
+// fix MD files mixing projects
 
 export default HomePage
 
