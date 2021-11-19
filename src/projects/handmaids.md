@@ -17,8 +17,6 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 
 ![Click to Enlarge :D](../images/handmaid/ht1.jpg)
 
-<!-- ![ht2.png](../images/handmaid/ht2.png) -->
-
 ![Click to Enlarge :D](../images/handmaid/ht3.jpg)
 
 ![Click to Enlarge :D](../images/handmaid/ht4.jpg)

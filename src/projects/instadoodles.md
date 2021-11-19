@@ -1,7 +1,7 @@
 ---
 title: Insta Doodles   
 format: • Candy Branding Project •
-slug: ma-cho
+slug: insta-doodles
 thumb: ../images/thumbs/macho.jpg
 featuredImg: ../images/macho/mc8.jpg
 

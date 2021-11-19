@@ -1,7 +1,7 @@
 ---
 title: Auto Alley Postcards    
 format: • Historic Distric Postcards •
-slug: ma-cho
+slug: auto-alley
 thumb: ../images/autoalley/aa1.jpg
 featuredImg: ../images/autoalley/aa1.jpg
 ---
