@@ -2,8 +2,8 @@
 title: Curbside Magazine "Lizzo"   
 format: • Magazine Illustration •
 slug: lizzo
-thumb: ../images/lizzo/l2.JPG
-featuredImg: ../images/lizzo/l2.JPG
+thumb: ../images/lizzo/liz2.jpg
+featuredImg: ../images/lizzo/liz2.jpg
 
 ---
 
@@ -16,8 +16,8 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 lorem lorem lorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
 
-![Click to Enlarge :D](../images/lizzo/l1.JPG)
+![Click to Enlarge :D](../images/lizzo/liz1.jpg)
 
-![Click to Enlarge :D](../images/lizzo/l2.JPG)
+![Click to Enlarge :D](../images/lizzo/liz3.jpg)
 
-![Click to Enlarge :D](../images/lizzo/l3.jpg)
+![Click to Enlarge :D](../images/lizzo/liz3.jpg)
