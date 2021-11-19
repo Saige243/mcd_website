@@ -18,6 +18,6 @@ lorem lorem lorem lorem lorem lorem lorem lorem
 
 ![Click to Enlarge :D](../images/lizzo/l1.JPG)
 
-![Click to Enlarge :D](../images/handmaid/l2.JPG)
+![Click to Enlarge :D](../images/lizzo/l2.JPG)
 
-![Click to Enlarge :D](../images/handmaid/l3.jpg)
+![Click to Enlarge :D](../images/lizzo/l3.jpg)

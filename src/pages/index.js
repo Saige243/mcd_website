@@ -17,8 +17,8 @@ function HomePage ({ data }) {
               <Link to={"/projects/" + project.frontmatter.slug} key={project.id}>
                   <div className="workinfo">
                       <GatsbyImage image={project.frontmatter.thumb.childImageSharp.gatsbyImageData} />
-                      {/* <h3 className="worktitle">{ project.frontmatter.title }</h3>
-                      <p>{ project.frontmatter.format }</p> */}
+                      <h3 className="worktitle">{ project.frontmatter.title }</h3>
+                      <p>{ project.frontmatter.format }</p>
                   </div>
               </Link>
             ))}
