@@ -52,9 +52,29 @@ export default HomePage
 //   }
 // }`
 
+// export const query = graphql`
+// query PortfolioPage {
+//   allMarkdownRemark {
+//     nodes {
+//       frontmatter {
+//         format
+//         slug
+//         title
+//         thumb {
+//           childImageSharp {
+//             gatsbyImageData
+//           }
+//         }
+//       }
+//       id
+//     }
+//   }
+// }
+// `
+
 export const query = graphql`
 query PortfolioPage {
-  allMarkdownRemark {
+  allMarkdownRemark(filter: {}, sort: {fields: frontmatter___title, order: ASC}) {
     nodes {
       frontmatter {
         format
@@ -71,3 +91,4 @@ query PortfolioPage {
   }
 }
 `
+

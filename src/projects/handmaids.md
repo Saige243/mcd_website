@@ -12,7 +12,7 @@ lorem lorem lorem lorem
 
 ### Lorem Ipsum
 lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
+lorem lorem slorem lorem lorem lorem lorem lorem 
 lorem lorem lorem lorem lorem lorem lorem lorem 
 
 ![Click to Enlarge :D](../images/handmaid/ht1.jpg)
