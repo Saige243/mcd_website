@@ -13,17 +13,12 @@ html, body {
     margin-bottom: 2vw;
   }
 
-
 body {
-    /* background: #f8f8ff; */
     background: white;
 }
 
 .navbar{
     display: flex;
-    /* grid-template-columns: 1fr 5fr 1fr; */
-    /* grid-template-rows: 1fr; */
-    /* justify-items: center; */
     align-items: center;
     justify-content: center ;
     margin: auto;
@@ -40,18 +35,12 @@ body {
         width: 250px;
         height: auto;
     }
-    /* .workcontainer{
-        display: grid;
-        justify-items: center;
-        grid-template-columns: 1fr 1fr;
-        grid-column-gap: 1px;
-    } */
-
     .workinfo{
-        font-size: 9px;
-        display: grid;
+      display: grid;
     }
 }
+
+/* __________wtf is happening with the media queries____________ */
 
 .MCD{
     text-align: center;
@@ -59,15 +48,23 @@ body {
     padding-top: 20px;
 }
 
-/* .navbar, .logo{
-    color: black;
-} */
-
 .workcontainer{
     display: grid;
     justify-items: center;
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+@media screen and (max-width: 550px){
+  .workcontainer{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .workinfo{
+    width: 20rem;
+    padding-top: 7px;
+  }
 }
 
 .workinfo img{
@@ -81,7 +78,7 @@ body {
   transition: .3s ease-in-out;
 }
 
-.workinfo{
+.workinfo.img{
     display: grid;
     justify-content: center;
     justify-items: center;
