@@ -51,7 +51,7 @@ body {
 .workcontainer{
     display: grid;
     justify-items: center;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 10px;
     grid-row-gap: 10px;
 }
@@ -68,8 +68,9 @@ body {
 }
 
 .workinfo img{
-    height: 35vw;
+    height: 37vw;
     width: 100%;
+    object-fit: none;
 }
 
 .workinfo :hover{
@@ -216,7 +217,8 @@ body {
 
 #name, #email, #subject, #message{
     display: grid;
-    width: 50vw;
+    width: 55vw;
+    font-size: 20px;
     padding: 10px;
     border: solid 2px rgba(229,149,114,1);
     border-radius: 5px;
@@ -237,12 +239,14 @@ label{
 }
 
 #send, #clear {
-    margin: 5px;
+    margin-top: 10px;
     border: solid 2px rgba(229,149,114,1);
     border-radius: 5px;
     background-color: rgba(229,149,114,1);
     color: white;
-    font-family: 'Coustard', serif;
+    padding: 8px;
+    font-size: 16px;
+    font-family: 'poppins', serif;
 }
 
 #send:hover, #clear:hover{
