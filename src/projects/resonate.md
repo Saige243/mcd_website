@@ -1,5 +1,5 @@
 ---
-title: Resonate    
+# title: Resonate    
 format: • Album Artwork •
 slug: resonate
 thumb: ../images/resonate/r2.jpg
@@ -7,14 +7,9 @@ featuredImg: ../images/resonate/r2.jpg
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorema;slkdjflljd
-
-### Lorem, snatch
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
+### Resonate - Album Art
+##### ILLUSTRATION • PHOTOGRAPHY • PRINT COLLATERAL
+Album/film art with a poster to pair with each song on singer/songwriter Brianna Gaither's album/film, Resonate.
 
 
 ![Click to Enlarge :D](../images/resonate/r1.jpg)

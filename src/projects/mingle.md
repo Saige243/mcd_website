@@ -1,5 +1,5 @@
 ---
-title: MINGLE BUTTER   
+# title: MINGLE BUTTER   
 format: • Butter Branding Project •
 slug: mingle-butter
 thumb: ../images/mingle/m2.jpg
@@ -9,11 +9,10 @@ featuredImg: ../images/mingle/m1.jpg
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorema;slkdjflljd
+### Mingle Butter - Butter's Better Mixed Together
+##### PACKAGE DESIGN • BRAND IDENTITY • ILLUSTRATON
 
-### Lorem, snatch
-lorem lorem alskdjf ;laksj df;lasj df; df as;ldkfajs;ldkfj a;sidjf ;lasdhg awljnbvwdn vcn x/zg.awildv.,sdnva kjn e/,navsd l  lorem alskdjf ;laksj df;lasj df; df as;ldkfajs;ldkfj a;sidjf ;lasdhg awljnbvwdn vcn x/zg.awildv.,sdnva kjn e/,navsd l
+A conceptual butter that comes in three different flavors: Orange Jalapeno, Blackberry Thyme, & Lemon Tarragon. Each package comes with pairing options and a song choice to compliment your meal.
 
 <!-- ![m1.jpg](../images/mingle/m1.jpg) -->
 

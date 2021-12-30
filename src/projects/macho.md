@@ -1,5 +1,5 @@
 ---
-title: MA_CHO CHOCOLATES    
+# title: MA_CHO CHOCOLATES    
 format: • Candy Branding Project •
 slug: ma-cho
 thumb: ../images/thumbs/macho.jpg
@@ -7,14 +7,10 @@ featuredImg: ../images/macho/mc8.jpg
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorema;slkdjflljd
-
-### Lorem, snatch
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
+### MA_CHO | MANLY CHOCOLATE
+##### PACKAGE DESIGN • BRANDING • PHOTOGRAPHY
+ 
+A series of conceptual masculinely inspired chocolates in five different flavors.
 
 
 ![Click to Enlarge :D](../images/macho/mc1.jpg)

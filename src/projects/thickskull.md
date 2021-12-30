@@ -1,5 +1,5 @@
 ---
-title: THICK SKULL BREWING
+# title: THICK SKULL BREWING
 format: • Craft Brewery Branding •
 slug: thick-skull
 thumb: ../images/thumbs/thickskull.jpg
@@ -8,11 +8,9 @@ featuredImg: ../images/thick/ts1.png
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorem
-
-### Lorem, snatch
-lorem lorem alskdjf ;laksj df;lasj df; df as;ldkfajs;ldkfj a;sidjf ;lasdhg awljnbvwdn vcn x/zg.awildv.,snva kjn e/,navsd l
+### Thick Skull Brewing Company
+##### BRANDING • PACKAGING • PHOTOGRAPHY
+Branding & packgaging for a conceptual brewery that benefitted veterans and those in the armed forces.
 
 ![Click to Enlarge :D](../images/thick/ts2.jpg)
 

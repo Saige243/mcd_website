@@ -7,14 +7,9 @@ featuredImg: ../images/pets/pp23.jpg
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorema;slkdjflljd
-
-### Lorem, snatch
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
+### Pet Portraits
+##### ILLUSTRATION • PROCREATE 
+A series of commissioned pet portraits for various good boys and good girls.
 
 ![Click to Enlarge :D](../images/pets/pp2.jpg)
 
