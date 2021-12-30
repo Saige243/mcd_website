@@ -1,6 +1,6 @@
 ---
-title: J   
-format: •  •
+# title: J   
+format: J
 id: 5
 slug: ma_cho
 thumb: ../images/thumbs/macho.jpg

@@ -1,6 +1,6 @@
 ---
-title: K   
-format: •  •
+# title: K   
+format: K
 id: 6
 slug: midwind
 thumb: ../images/midwind/mw0.jpg

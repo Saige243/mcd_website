@@ -1,6 +1,6 @@
 ---
-title: C   
-format: •  •
+# title: C   
+format: C
 id: 4
 slug: lizzo
 thumb: ../images/lizzo/liz2.jpg

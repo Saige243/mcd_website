@@ -1,6 +1,6 @@
 ---
-title: E   
-format: •  •
+# title: E   
+format: E
 id: 10
 slug: seoul-living
 thumb: ../images/thumbs/seoul.png

@@ -74,7 +74,7 @@ export default HomePage
 
 export const query = graphql`
 query PortfolioPage {
-  allMarkdownRemark(filter: {}, sort: {fields: frontmatter___title, order: ASC}) {
+  allMarkdownRemark(filter: {}, sort: {fields: frontmatter___format, order: ASC}) {
     nodes {
       frontmatter {
         format

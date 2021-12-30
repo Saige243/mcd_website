@@ -1,6 +1,6 @@
 ---
-title: B
-format: •  •
+# title: B
+format: B
 id: 11
 slug: swaddle-baby
 thumb: ../images/swaddle/s1.jpg

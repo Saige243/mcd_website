@@ -1,6 +1,6 @@
 ---
-title: L 
-format: • B •
+# title: L 
+format: L
 id: 2
 slug: handmaids-tale
 thumb: ../images/thumbs/handmaids.jpg

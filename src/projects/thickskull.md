@@ -1,6 +1,6 @@
 ---
-title: F
-format: •  •
+# title: F
+format: F
 id: 12
 slug: thick-skull
 thumb: ../images/thumbs/thickskull.jpg

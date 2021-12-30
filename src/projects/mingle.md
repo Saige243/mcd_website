@@ -1,6 +1,6 @@
 ---
-title: I   
-format: •  •
+# title: I   
+format: I
 id: 7
 slug: mingle-butter
 thumb: ../images/mingle/m2.jpg

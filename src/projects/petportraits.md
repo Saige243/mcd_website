@@ -1,6 +1,6 @@
 ---
-title: H   
-format: •  •
+# title: H   
+format: H
 id: 8
 slug: pet-portraits
 thumb: ../images/pets/pp16.jpg

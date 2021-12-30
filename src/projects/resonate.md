@@ -1,6 +1,6 @@
 ---
-title: D  
-format: •  •
+# title: D  
+format: D
 id: 9
 slug: resonate
 thumb: ../images/resonate/r2.jpg

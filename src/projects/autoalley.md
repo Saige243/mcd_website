@@ -1,6 +1,6 @@
 ---
-title: A    
-format: • A •
+# title: A    
+format: A
 id: 1
 slug: auto-alley
 thumb: ../images/autoalley/aa1.jpg

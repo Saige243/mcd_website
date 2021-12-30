@@ -1,6 +1,6 @@
 ---
-title: G   
-format: •  •
+# title: G   
+format: G
 id: 3
 slug: insta-doodles
 thumb: ../images/instadoodles/id7.jpg
