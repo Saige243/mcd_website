@@ -1,6 +1,7 @@
 ---
-# title: SWADDLE
-format: • Baby Store Branding •
+title: B
+format: •  •
+id: 11
 slug: swaddle-baby
 thumb: ../images/swaddle/s1.jpg
 featuredImg: ../images/swaddle/s1.jpg

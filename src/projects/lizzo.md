@@ -1,6 +1,7 @@
 ---
-# title: Curbside Magazine "Lizzo"   
-format: • Magazine Illustration •
+title: C   
+format: •  •
+id: 4
 slug: lizzo
 thumb: ../images/lizzo/liz2.jpg
 featuredImg: ../images/lizzo/liz2.jpg

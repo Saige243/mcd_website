@@ -1,6 +1,7 @@
 ---
-# title: Insta Doodles   
-format: • Candy Branding Project •
+title: G   
+format: •  •
+id: 3
 slug: insta-doodles
 thumb: ../images/instadoodles/id7.jpg
 featuredImg: ../images/instadoodles/id6.jpg

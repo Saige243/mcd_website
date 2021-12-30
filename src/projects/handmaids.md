@@ -1,6 +1,7 @@
 ---
-# title: THE HANDMAID'S TALE  
-format: • Book Cover Design •
+title: L 
+format: • B •
+id: 2
 slug: handmaids-tale
 thumb: ../images/thumbs/handmaids.jpg
 featuredImg: ../images/thumbs/handmaids.jpg

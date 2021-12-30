@@ -1,6 +1,7 @@
 ---
-# title: MINGLE BUTTER   
-format: • Butter Branding Project •
+title: I   
+format: •  •
+id: 7
 slug: mingle-butter
 thumb: ../images/mingle/m2.jpg
 featuredImg: ../images/mingle/m1.jpg

@@ -1,6 +1,7 @@
 ---
-# title: FIND YOUR SEOUL   
-format: • South Korean Travel Agency •
+title: E   
+format: •  •
+id: 10
 slug: seoul-living
 thumb: ../images/thumbs/seoul.png
 featuredImg: '../images/seoul/ss1.jpg'

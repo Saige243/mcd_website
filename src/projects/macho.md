@@ -1,6 +1,7 @@
 ---
-# title: MA_CHO CHOCOLATES    
-format: • Candy Branding Project •
+title: J   
+format: •  •
+id: 5
 slug: ma_cho
 thumb: ../images/thumbs/macho.jpg
 featuredImg: ../images/macho/mc8.jpg

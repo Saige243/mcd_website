@@ -1,10 +1,10 @@
 ---
-# title: Resonate    
-format: • Album Artwork •
+title: D  
+format: •  •
+id: 9
 slug: resonate
 thumb: ../images/resonate/r2.jpg
 featuredImg: ../images/resonate/r2.jpg
-
 ---
 
 ### Resonate - Album Art

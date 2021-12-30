@@ -1,6 +1,7 @@
 ---
-# title: THICK SKULL BREWING
-format: • Craft Brewery Branding •
+title: F
+format: •  •
+id: 12
 slug: thick-skull
 thumb: ../images/thumbs/thickskull.jpg
 featuredImg: ../images/thick/ts1.png

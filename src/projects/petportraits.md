@@ -1,6 +1,7 @@
 ---
-title: Pet Portraits   
-format: • Candy Branding Project •
+title: H   
+format: •  •
+id: 8
 slug: pet-portraits
 thumb: ../images/pets/pp16.jpg
 featuredImg: ../images/pets/pp23.jpg

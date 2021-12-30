@@ -1,8 +1,9 @@
 ---
-# title: Curbside Magazine "Lizzo"   
-format: • rebranding •
+title: K   
+format: •  •
+id: 6
 slug: midwind
-thumb: ../images/midwind/mw1.jpg
+thumb: ../images/midwind/mw0.jpg
 featuredImg: ../images/midwind/mw1.jpg
 
 ---
