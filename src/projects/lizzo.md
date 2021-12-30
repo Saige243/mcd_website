@@ -10,7 +10,8 @@ featuredImg: ../images/lizzo/liz2.jpg
 <!-- **Lorem ipsum**
 lorem lorem lorem lorema;slkdjflljd -->
 
-**Illustration for Oklahoma City's Curbside Chronicle**
+### Illustration for Curbside Chronicle
+##### ILLUSTRATION • PRINT COLLATERAL • VISUAL STORYTELLING
 
 The Curbside Chronicle is Oklahoma’s street paper created to provide both a voice and employment opportunities for people who are experiencing and at risk of homelessness. 
 

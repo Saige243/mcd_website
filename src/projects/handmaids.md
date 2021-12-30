@@ -1,5 +1,5 @@
 ---
-title: THE HANDMAID'S TALE  
+# title: THE HANDMAID'S TALE  
 format: • Book Cover Design •
 slug: handmaids-tale
 thumb: ../images/thumbs/handmaids.jpg
@@ -7,13 +7,10 @@ featuredImg: ../images/thumbs/handmaids.jpg
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorem
+### The Handmaid's Tale - Book Cover Redesign
+##### TYPOGRAPHY • PHOTOGRAPHY
 
-### Lorem Ipsum
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem slorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
+Conceptual redesign of Margaret Atwood's The Handmaid's Tale.
 
 ![Click to Enlarge :D](../images/handmaid/ht1.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: Insta Doodles   
+# title: Insta Doodles   
 format: • Candy Branding Project •
 slug: insta-doodles
 thumb: ../images/instadoodles/id7.jpg
@@ -7,14 +7,12 @@ featuredImg: ../images/instadoodles/id6.jpg
 
 ---
 
-**Lorem ipsum**
-lorem lorem lorem lorema;slkdjflljd
+### Insta Doodles
+##### ILLUSTRATION
 
-### Lorem, snatch
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem 
-lorem lorem lorem lorem lorem lorem lorem lorem
+A random assortment of illustrations from my personal Instagram [@maisiepaigecross](https://www.instagram.com/maisiepaigecross/?hl=en). 
+
+![Click to Enlarge :D](../images/instadoodles/id7.jpg)
 
 ![Click to Enlarge :D](../images/instadoodles/id1.jpg)
 
