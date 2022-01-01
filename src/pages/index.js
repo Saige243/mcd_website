@@ -1,7 +1,5 @@
 import React from "react"
-import Navbar from '../Components/Navbar'
 import Layout from '../Components/Layout'
-import Work from '../Components/Work'
 import { graphql, Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
@@ -27,50 +25,8 @@ function HomePage ({ data }) {
     </div>
   )
 }
-// fix MD files mixing projects
 
 export default HomePage
-
-// export const query = graphql`
-// query PortfolioPage {
-//   allMarkdownRemark {
-//     nodes {
-//       frontmatter {
-//         format
-//         slug
-//         title
-//         thumb {
-//           childImageSharp {
-//             fluid {
-//               ...GatsbyImageSharpFluid
-//             }
-//           }
-//         }
-//       }
-//       id
-//     }
-//   }
-// }`
-
-// export const query = graphql`
-// query PortfolioPage {
-//   allMarkdownRemark {
-//     nodes {
-//       frontmatter {
-//         format
-//         slug
-//         title
-//         thumb {
-//           childImageSharp {
-//             gatsbyImageData
-//           }
-//         }
-//       }
-//       id
-//     }
-//   }
-// }
-// `
 
 export const query = graphql`
 query PortfolioPage {

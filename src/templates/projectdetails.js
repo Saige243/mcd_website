@@ -1,7 +1,6 @@
 import React from 'react'
 import Layout from '../Components/Layout'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import styles from '../styles/global.css'
 import { graphql } from 'gatsby'
 
 export default function projectdetails({ data }) {
@@ -22,23 +21,6 @@ export default function projectdetails({ data }) {
   )
 }
 
-// export const query = graphql`
-//   query ProjectsPage($slug: String) {
-//     markdownRemark(frontmatter: {slug: {eq: $slug}}) {
-//       html
-//       frontmatter {
-//         slug
-//         title
-//         featuredImg {
-//           childImageSharp {
-//             fluid {
-//               ...GatsbyImageSharpFluid
-//             }
-//           }
-//         }
-//       }
-//     }
-//   }`
 export const query = graphql`
 query ProjectsPage($slug: String) {
   markdownRemark(frontmatter: {slug: {eq: $slug}}) {

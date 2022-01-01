@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from '../Components/Navbar'
 import Layout from '../Components/Layout'
 
 export default function contact() {
