@@ -6,7 +6,7 @@ export default function contact() {
     return (
         <div>
             <Layout>
-                <h1 className="chat">Let's Chat!</h1>
+                <h1 className="chat">let's chat.</h1>
                 <div className="formcontainer">
                     <form className="form" method="post" action="https://getform.io/f/b8dba008-25b5-4bdc-9295-0f3d6b0f0ab4">
                         <label>

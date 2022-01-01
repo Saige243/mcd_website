@@ -86,7 +86,6 @@ query PortfolioPage {
           }
         }
       }
-      id
     }
   }
 }

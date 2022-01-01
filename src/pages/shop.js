@@ -7,7 +7,7 @@
     return (
     <div>
         <Layout>
-            <h1>WORK HERE</h1>
+            <h1 className="workpgtxt">coming soon. stay tuned.</h1>
         </Layout>
     </div>
     )};
