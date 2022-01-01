@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+// import { graphql, Link } from 'gatsby'
 
 
 export default function Work({ data }) {

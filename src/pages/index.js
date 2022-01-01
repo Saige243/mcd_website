@@ -1,4 +1,5 @@
 import React from "react"
+import "../styles/global.css"
 import Layout from '../Components/Layout'
 import { graphql, Link } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
