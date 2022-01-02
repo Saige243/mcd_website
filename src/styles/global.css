@@ -66,8 +66,8 @@ body {
 }
 
 .workinfo img{
-    height: 37vw;
-    width: 100%;
+    height: 37vw !important;
+    width: 100% !important;
     object-fit: none;
 }
 
